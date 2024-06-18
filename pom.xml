@@ -13,8 +13,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>twitter-microservices-demo</name>
 	<description>Microservices demo project for Spring Boot</description>
+	<modules>
+		<module>twitter-to-kafka-service</module>
+	</modules>
 
-<!-- 	change packaging jar to pom		-->
+	<!-- 	change packaging jar to pom		-->
 	<packaging>pom</packaging>
 	<properties>
 		<java.version>11</java.version>
