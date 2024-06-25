@@ -1,4 +1,4 @@
-package com.microservices.exception;
+package com.microservices.demo.twitter.to.kafka.service.exception;
 
 /**
  * Created by mahbub.islam on 24/6/2024.

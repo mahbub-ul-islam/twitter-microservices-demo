@@ -9,7 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.microservices</groupId>
+    <groupId>com.microservices.demo</groupId>
     <artifactId>twitter-to-kafka-service</artifactId>
 
 <!--  added parent dependency without versioning.  -->
